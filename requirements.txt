@@ -1,0 +1,10 @@
+ipykernel
+opencv-python
+numpy
+scikit-learn
+matplotlib
+tensorflow
+cmake
+imutils
+dlib
+gradio
