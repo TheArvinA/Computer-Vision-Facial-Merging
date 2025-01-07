@@ -1,4 +1,4 @@
-# CPS843_Project
+# Copmuter Vision project
 
 Dataset: https://www.kaggle.com/datasets/atulanandjha/lfwpeople
 
